@@ -1,7 +1,7 @@
 # Yongche Xiuche Dev
 ### customer Courses
-- [ ] rescue.apply
-- [ ] rescue.choose
+- [ ] rescue.apply ?C
+- [ ] rescue.choose ?K
 - [ ] rescue.status
 - [ ] repair.course
 - [ ] repair.items
